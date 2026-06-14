@@ -1,0 +1,13 @@
+Dubki
+Back Kick
+Hand Touch
+Lion Jump
+Side Kick
+Toe Touch
+idle
+Ankle Hold
+Thigh Hold
+Waist Hold
+Block
+Dash
+Chain Tackle

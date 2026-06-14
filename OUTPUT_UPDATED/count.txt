@@ -1,0 +1,17 @@
+INDIVIDUAL ACTION SEQUENCE COUNTS
+========================================
+Ankle Hold           11
+Back Kick            2
+Block                16
+Chain Tackle         5
+Dash                 2
+Dubki                5
+Hand Touch           16
+Lion Jump            9
+Side Kick            3
+Thigh Hold           12
+Toe Touch            18
+Waist Hold           2
+bonus                5
+========================================
+TOTAL: 106

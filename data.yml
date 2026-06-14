@@ -1,0 +1,20 @@
+path: dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: Dubki
+  1: Back Kick
+  2: Hand Touch
+  3: Lion Jump
+  4: Side Kick
+  5: Toe Touch
+  6: Idle
+  7: Ankle Hold
+  8: Thigh Hold
+  9: Waist Hold
+  10: Block
+  11: Dash
+  12: Chain Tackle
+  13: Bonus

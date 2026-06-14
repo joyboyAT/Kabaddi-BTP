@@ -1,0 +1,7326 @@
+Frame 1   |  Lost tracks: 0   |  Tracked: 0
+Active IDs:  
+______________________________________
+Frame 2   |  Lost tracks: 0   |  Tracked: 0
+Active IDs:  
+______________________________________
+Frame 3   |  Lost tracks: 0   |  Tracked: 1
+Active IDs:   1  
+______________________________________
+Frame 4   |  Lost tracks: 0   |  Tracked: 1
+Active IDs:   2  
+______________________________________
+Frame 5   |  Lost tracks: 0   |  Tracked: 0
+Active IDs:  
+______________________________________
+Frame 6   |  Lost tracks: 0   |  Tracked: 0
+Active IDs:  
+______________________________________
+Frame 7   |  Lost tracks: 0   |  Tracked: 0
+Active IDs:  
+______________________________________
+Frame 8   |  Lost tracks: 0   |  Tracked: 1
+Active IDs:   3  
+______________________________________
+Frame 9   |  Lost tracks: 0   |  Tracked: 0
+Active IDs:  
+______________________________________
+Frame 10   |  Lost tracks: 0   |  Tracked: 0
+Active IDs:  
+______________________________________
+Frame 11   |  Lost tracks: 0   |  Tracked: 8
+Active IDs:   4   5   6   7   8   9   10   11  
+______________________________________
+Frame 12   |  Lost tracks: 0   |  Tracked: 8
+Active IDs:   4   5   6   7   8   9   10   11  
+______________________________________
+Frame 13   |  Lost tracks: 0   |  Tracked: 8
+Active IDs:   4   5   6   7   8   9   10   11  
+______________________________________
+Frame 14   |  Lost tracks: 0   |  Tracked: 9
+Active IDs:   4   5   6   7   8   9   10   11   12  
+______________________________________
+Frame 15   |  Lost tracks: 1   |  Tracked: 8
+  Lost ID 10
+
+Frame 15
+Lost ID 10
+   Detection0:IOU = 0.380
+   Detection1:IOU = 0.038
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.000
+Active IDs:   4   5   6   7   8   9   11   13  
+______________________________________
+Frame 16   |  Lost tracks: 1   |  Tracked: 7
+  Lost ID 10
+
+Frame 16
+Lost ID 10
+   Detection0:IOU = 0.412
+   Detection1:IOU = 0.062
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.000
+Active IDs:   4   5   6   7   8   9   11  
+______________________________________
+Frame 17   |  Lost tracks: 1   |  Tracked: 7
+  Lost ID 10
+
+Frame 17
+Lost ID 10
+   Detection0:IOU = 0.415
+   Detection1:IOU = 0.069
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.000
+Active IDs:   4   5   6   7   8   9   11  
+______________________________________
+Frame 18   |  Lost tracks: 1   |  Tracked: 7
+  Lost ID 10
+
+Frame 18
+Lost ID 10
+   Detection0:IOU = 0.363
+   Detection1:IOU = 0.042
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.000
+Active IDs:   4   5   6   7   8   9   11  
+______________________________________
+Frame 19   |  Lost tracks: 0   |  Tracked: 9
+Active IDs:   4   5   6   7   8   9   11   14   10  
+______________________________________
+Frame 20   |  Lost tracks: 0   |  Tracked: 8
+Active IDs:   4   5   6   7   8   9   11   10  
+______________________________________
+Frame 21   |  Lost tracks: 0   |  Tracked: 8
+Active IDs:   4   5   6   7   8   9   11   10  
+______________________________________
+Frame 22   |  Lost tracks: 0   |  Tracked: 8
+Active IDs:   4   5   6   7   8   9   11   10  
+______________________________________
+Frame 23   |  Lost tracks: 1   |  Tracked: 7
+  Lost ID 10
+
+Frame 23
+Lost ID 10
+   Detection0:IOU = 0.259
+   Detection1:IOU = 0.043
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.000
+Active IDs:   4   5   6   7   8   9   11  
+______________________________________
+Frame 24   |  Lost tracks: 0   |  Tracked: 9
+Active IDs:   4   5   6   7   8   9   11   15   10  
+______________________________________
+Frame 25   |  Lost tracks: 0   |  Tracked: 11
+Active IDs:   4   5   6   7   8   9   11   10   16   17   18  
+______________________________________
+Frame 26   |  Lost tracks: 0   |  Tracked: 8
+Active IDs:   4   5   6   7   8   9   11   10  
+______________________________________
+Frame 27   |  Lost tracks: 0   |  Tracked: 8
+Active IDs:   4   5   6   7   8   9   11   10  
+______________________________________
+Frame 28   |  Lost tracks: 3   |  Tracked: 5
+  Lost ID 5
+
+Frame 28
+Lost ID 5
+   Detection0:IOU = 0.144
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.142
+  Lost ID 7
+
+Frame 28
+Lost ID 7
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.045
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 8
+
+Frame 28
+Lost ID 8
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   4   6   9   11   10  
+______________________________________
+Frame 29   |  Lost tracks: 2   |  Tracked: 6
+  Lost ID 7
+
+Frame 29
+Lost ID 7
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.059
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 8
+
+Frame 29
+Lost ID 8
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.019
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+Active IDs:   4   6   9   11   10   5  
+______________________________________
+Frame 30   |  Lost tracks: 2   |  Tracked: 6
+  Lost ID 7
+
+Frame 30
+Lost ID 7
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.059
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.102
+  Lost ID 5
+
+Frame 30
+Lost ID 5
+   Detection0:IOU = 0.041
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.047
+   Detection5:IOU = 0.000
+Active IDs:   4   6   9   11   10   8  
+______________________________________
+Frame 31   |  Lost tracks: 2   |  Tracked: 6
+  Lost ID 7
+
+Frame 31
+Lost ID 7
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.044
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 8
+
+Frame 31
+Lost ID 8
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.013
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+Active IDs:   4   6   9   11   10   5  
+______________________________________
+Frame 32   |  Lost tracks: 1   |  Tracked: 7
+  Lost ID 8
+
+Frame 32
+Lost ID 8
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.070
+Active IDs:   4   6   9   11   10   5   7  
+______________________________________
+Frame 33   |  Lost tracks: 1   |  Tracked: 7
+  Lost ID 8
+
+Frame 33
+Lost ID 8
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.086
+Active IDs:   4   6   9   11   10   5   7  
+______________________________________
+Frame 34   |  Lost tracks: 1   |  Tracked: 7
+  Lost ID 8
+
+Frame 34
+Lost ID 8
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.083
+Active IDs:   4   6   9   11   10   5   7  
+______________________________________
+Frame 35   |  Lost tracks: 2   |  Tracked: 6
+  Lost ID 5
+
+Frame 35
+Lost ID 5
+   Detection0:IOU = 0.056
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.104
+   Detection5:IOU = 0.000
+  Lost ID 7
+
+Frame 35
+Lost ID 7
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.157
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.253
+Active IDs:   4   6   9   11   10   8  
+______________________________________
+Frame 36   |  Lost tracks: 1   |  Tracked: 7
+  Lost ID 5
+
+Frame 36
+Lost ID 5
+   Detection0:IOU = 0.045
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.150
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.000
+Active IDs:   4   6   9   11   10   8   7  
+______________________________________
+Frame 37   |  Lost tracks: 2   |  Tracked: 7
+  Lost ID 5
+
+Frame 37
+Lost ID 5
+   Detection0:IOU = 0.033
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.001
+   Detection4:IOU = 0.139
+   Detection5:IOU = 0.000
+  Lost ID 7
+
+Frame 37
+Lost ID 7
+   Detection0:IOU = 0.016
+   Detection1:IOU = 0.083
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.351
+Active IDs:   4   6   9   11   10   8   19  
+______________________________________
+Frame 38   |  Lost tracks: 3   |  Tracked: 6
+  Lost ID 5
+
+Frame 38
+Lost ID 5
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.147
+   Detection4:IOU = 0.000
+  Lost ID 7
+
+Frame 38
+Lost ID 7
+   Detection0:IOU = 0.071
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.498
+  Lost ID 6
+
+Frame 38
+Lost ID 6
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.074
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.067
+Active IDs:   4   9   11   10   8   20  
+______________________________________
+Frame 39   |  Lost tracks: 3   |  Tracked: 6
+  Lost ID 7
+
+Frame 39
+Lost ID 7
+   Detection0:IOU = 0.112
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.015
+   Detection3:IOU = 0.534
+   Detection4:IOU = 0.000
+  Lost ID 6
+
+Frame 39
+Lost ID 6
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.177
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.012
+   Detection4:IOU = 0.000
+  Lost ID 11
+
+Frame 39
+Lost ID 11
+   Detection0:IOU = 0.058
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.150
+   Detection3:IOU = 0.007
+   Detection4:IOU = 0.172
+Active IDs:   4   9   10   8   21   5  
+______________________________________
+Frame 40   |  Lost tracks: 2   |  Tracked: 8
+  Lost ID 7
+
+Frame 40
+Lost ID 7
+   Detection0:IOU = 0.161
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.052
+   Detection3:IOU = 0.413
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.000
+  Lost ID 6
+
+Frame 40
+Lost ID 6
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.238
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.000
+Active IDs:   4   9   10   8   21   5   22   11  
+______________________________________
+Frame 41   |  Lost tracks: 2   |  Tracked: 8
+  Lost ID 7
+
+Frame 41
+Lost ID 7
+   Detection0:IOU = 0.208
+   Detection1:IOU = 0.011
+   Detection2:IOU = 0.094
+   Detection3:IOU = 0.318
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.000
+   Detection7:IOU = 0.000
+  Lost ID 6
+
+Frame 41
+Lost ID 6
+   Detection0:IOU = 0.033
+   Detection1:IOU = 0.277
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.000
+   Detection7:IOU = 0.000
+Active IDs:   4   9   10   8   21   5   22   11  
+______________________________________
+Frame 42   |  Lost tracks: 4   |  Tracked: 6
+  Lost ID 7
+
+Frame 42
+Lost ID 7
+   Detection0:IOU = 0.178
+   Detection1:IOU = 0.061
+   Detection2:IOU = 0.123
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 6
+
+Frame 42
+Lost ID 6
+   Detection0:IOU = 0.063
+   Detection1:IOU = 0.221
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 8
+
+Frame 42
+Lost ID 8
+   Detection0:IOU = 0.049
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.122
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.052
+   Detection5:IOU = 0.000
+  Lost ID 11
+
+Frame 42
+Lost ID 11
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.060
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.117
+   Detection5:IOU = 0.000
+Active IDs:   4   9   10   21   5   22  
+______________________________________
+Frame 43   |  Lost tracks: 4   |  Tracked: 6
+  Lost ID 7
+
+Frame 43
+Lost ID 7
+   Detection0:IOU = 0.152
+   Detection1:IOU = 0.126
+   Detection2:IOU = 0.153
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 6
+
+Frame 43
+Lost ID 6
+   Detection0:IOU = 0.065
+   Detection1:IOU = 0.140
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 8
+
+Frame 43
+Lost ID 8
+   Detection0:IOU = 0.034
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.147
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.072
+   Detection5:IOU = 0.000
+  Lost ID 11
+
+Frame 43
+Lost ID 11
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.047
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.112
+   Detection5:IOU = 0.000
+Active IDs:   4   9   10   21   5   22  
+______________________________________
+Frame 44   |  Lost tracks: 4   |  Tracked: 6
+  Lost ID 7
+
+Frame 44
+Lost ID 7
+   Detection0:IOU = 0.121
+   Detection1:IOU = 0.202
+   Detection2:IOU = 0.171
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 6
+
+Frame 44
+Lost ID 6
+   Detection0:IOU = 0.073
+   Detection1:IOU = 0.044
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 8
+
+Frame 44
+Lost ID 8
+   Detection0:IOU = 0.018
+   Detection1:IOU = 0.052
+   Detection2:IOU = 0.159
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.092
+   Detection5:IOU = 0.000
+  Lost ID 11
+
+Frame 44
+Lost ID 11
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.026
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.098
+   Detection5:IOU = 0.000
+Active IDs:   4   9   10   21   5   22  
+______________________________________
+Frame 45   |  Lost tracks: 4   |  Tracked: 7
+  Lost ID 7
+
+Frame 45
+Lost ID 7
+   Detection0:IOU = 0.111
+   Detection1:IOU = 0.312
+   Detection2:IOU = 0.180
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 6
+
+Frame 45
+Lost ID 6
+   Detection0:IOU = 0.068
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 8
+
+Frame 45
+Lost ID 8
+   Detection0:IOU = 0.011
+   Detection1:IOU = 0.128
+   Detection2:IOU = 0.152
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.109
+   Detection5:IOU = 0.000
+  Lost ID 11
+
+Frame 45
+Lost ID 11
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.015
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.086
+   Detection5:IOU = 0.000
+Active IDs:   4   9   10   21   5   22   23  
+______________________________________
+Frame 46   |  Lost tracks: 4   |  Tracked: 7
+  Lost ID 7
+
+Frame 46
+Lost ID 7
+   Detection0:IOU = 0.107
+   Detection1:IOU = 0.404
+   Detection2:IOU = 0.195
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.000
+  Lost ID 6
+
+Frame 46
+Lost ID 6
+   Detection0:IOU = 0.052
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.000
+  Lost ID 8
+
+Frame 46
+Lost ID 8
+   Detection0:IOU = 0.006
+   Detection1:IOU = 0.215
+   Detection2:IOU = 0.155
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.128
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.083
+  Lost ID 11
+
+Frame 46
+Lost ID 11
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.013
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.077
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.135
+Active IDs:   4   9   10   21   5   22   23  
+______________________________________
+Frame 47   |  Lost tracks: 4   |  Tracked: 7
+  Lost ID 7
+
+Frame 47
+Lost ID 7
+   Detection0:IOU = 0.099
+   Detection1:IOU = 0.389
+   Detection2:IOU = 0.188
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.000
+  Lost ID 6
+
+Frame 47
+Lost ID 6
+   Detection0:IOU = 0.042
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.000
+  Lost ID 8
+
+Frame 47
+Lost ID 8
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.340
+   Detection2:IOU = 0.155
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.145
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.047
+  Lost ID 11
+
+Frame 47
+Lost ID 11
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.007
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.070
+   Detection5:IOU = 0.000
+   Detection6:IOU = 0.067
+Active IDs:   4   9   10   21   5   22   23  
+______________________________________
+Frame 48   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 48
+Lost ID 7
+   Detection0:IOU = 0.192
+  Lost ID 6
+
+Frame 48
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 48
+Lost ID 8
+   Detection0:IOU = 0.236
+  Lost ID 11
+
+Frame 48
+Lost ID 11
+   Detection0:IOU = 0.063
+  Lost ID 4
+
+Frame 48
+Lost ID 4
+   Detection0:IOU = 0.028
+  Lost ID 9
+
+Frame 48
+Lost ID 9
+   Detection0:IOU = 0.151
+  Lost ID 21
+
+Frame 48
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 48
+Lost ID 5
+   Detection0:IOU = 0.307
+  Lost ID 22
+
+Frame 48
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 48
+Lost ID 23
+   Detection0:IOU = 0.060
+Active IDs:   10  
+______________________________________
+Frame 49   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 49
+Lost ID 7
+   Detection0:IOU = 0.178
+  Lost ID 6
+
+Frame 49
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 49
+Lost ID 8
+   Detection0:IOU = 0.220
+  Lost ID 11
+
+Frame 49
+Lost ID 11
+   Detection0:IOU = 0.056
+  Lost ID 4
+
+Frame 49
+Lost ID 4
+   Detection0:IOU = 0.016
+  Lost ID 9
+
+Frame 49
+Lost ID 9
+   Detection0:IOU = 0.137
+  Lost ID 21
+
+Frame 49
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 49
+Lost ID 5
+   Detection0:IOU = 0.270
+  Lost ID 22
+
+Frame 49
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 49
+Lost ID 23
+   Detection0:IOU = 0.052
+Active IDs:   10  
+______________________________________
+Frame 50   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 50
+Lost ID 7
+   Detection0:IOU = 0.184
+  Lost ID 6
+
+Frame 50
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 50
+Lost ID 8
+   Detection0:IOU = 0.203
+  Lost ID 11
+
+Frame 50
+Lost ID 11
+   Detection0:IOU = 0.045
+  Lost ID 4
+
+Frame 50
+Lost ID 4
+   Detection0:IOU = 0.005
+  Lost ID 9
+
+Frame 50
+Lost ID 9
+   Detection0:IOU = 0.124
+  Lost ID 21
+
+Frame 50
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 50
+Lost ID 5
+   Detection0:IOU = 0.260
+  Lost ID 22
+
+Frame 50
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 50
+Lost ID 23
+   Detection0:IOU = 0.025
+Active IDs:   10  
+______________________________________
+Frame 51   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 51
+Lost ID 7
+   Detection0:IOU = 0.197
+  Lost ID 6
+
+Frame 51
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 51
+Lost ID 8
+   Detection0:IOU = 0.183
+  Lost ID 11
+
+Frame 51
+Lost ID 11
+   Detection0:IOU = 0.035
+  Lost ID 4
+
+Frame 51
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 51
+Lost ID 9
+   Detection0:IOU = 0.113
+  Lost ID 21
+
+Frame 51
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 51
+Lost ID 5
+   Detection0:IOU = 0.254
+  Lost ID 22
+
+Frame 51
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 51
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 52   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 52
+Lost ID 7
+   Detection0:IOU = 0.218
+  Lost ID 6
+
+Frame 52
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 52
+Lost ID 8
+   Detection0:IOU = 0.166
+  Lost ID 11
+
+Frame 52
+Lost ID 11
+   Detection0:IOU = 0.034
+  Lost ID 4
+
+Frame 52
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 52
+Lost ID 9
+   Detection0:IOU = 0.120
+  Lost ID 21
+
+Frame 52
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 52
+Lost ID 5
+   Detection0:IOU = 0.239
+  Lost ID 22
+
+Frame 52
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 52
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 53   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 53
+Lost ID 7
+   Detection0:IOU = 0.219
+  Lost ID 6
+
+Frame 53
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 53
+Lost ID 8
+   Detection0:IOU = 0.164
+  Lost ID 11
+
+Frame 53
+Lost ID 11
+   Detection0:IOU = 0.035
+  Lost ID 4
+
+Frame 53
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 53
+Lost ID 9
+   Detection0:IOU = 0.124
+  Lost ID 21
+
+Frame 53
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 53
+Lost ID 5
+   Detection0:IOU = 0.241
+  Lost ID 22
+
+Frame 53
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 53
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 54   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 54
+Lost ID 7
+   Detection0:IOU = 0.208
+  Lost ID 6
+
+Frame 54
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 54
+Lost ID 8
+   Detection0:IOU = 0.175
+  Lost ID 11
+
+Frame 54
+Lost ID 11
+   Detection0:IOU = 0.037
+  Lost ID 4
+
+Frame 54
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 54
+Lost ID 9
+   Detection0:IOU = 0.117
+  Lost ID 21
+
+Frame 54
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 54
+Lost ID 5
+   Detection0:IOU = 0.256
+  Lost ID 22
+
+Frame 54
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 54
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 55   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 55
+Lost ID 7
+   Detection0:IOU = 0.208
+  Lost ID 6
+
+Frame 55
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 55
+Lost ID 8
+   Detection0:IOU = 0.160
+  Lost ID 11
+
+Frame 55
+Lost ID 11
+   Detection0:IOU = 0.030
+  Lost ID 4
+
+Frame 55
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 55
+Lost ID 9
+   Detection0:IOU = 0.090
+  Lost ID 21
+
+Frame 55
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 55
+Lost ID 5
+   Detection0:IOU = 0.254
+  Lost ID 22
+
+Frame 55
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 55
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 56   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 56
+Lost ID 7
+   Detection0:IOU = 0.221
+  Lost ID 6
+
+Frame 56
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 56
+Lost ID 8
+   Detection0:IOU = 0.127
+  Lost ID 11
+
+Frame 56
+Lost ID 11
+   Detection0:IOU = 0.018
+  Lost ID 4
+
+Frame 56
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 56
+Lost ID 9
+   Detection0:IOU = 0.050
+  Lost ID 21
+
+Frame 56
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 56
+Lost ID 5
+   Detection0:IOU = 0.257
+  Lost ID 22
+
+Frame 56
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 56
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 57   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 57
+Lost ID 7
+   Detection0:IOU = 0.228
+  Lost ID 6
+
+Frame 57
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 57
+Lost ID 8
+   Detection0:IOU = 0.120
+  Lost ID 11
+
+Frame 57
+Lost ID 11
+   Detection0:IOU = 0.016
+  Lost ID 4
+
+Frame 57
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 57
+Lost ID 9
+   Detection0:IOU = 0.030
+  Lost ID 21
+
+Frame 57
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 57
+Lost ID 5
+   Detection0:IOU = 0.265
+  Lost ID 22
+
+Frame 57
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 57
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 58   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 58
+Lost ID 7
+   Detection0:IOU = 0.220
+  Lost ID 6
+
+Frame 58
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 58
+Lost ID 8
+   Detection0:IOU = 0.122
+  Lost ID 11
+
+Frame 58
+Lost ID 11
+   Detection0:IOU = 0.016
+  Lost ID 4
+
+Frame 58
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 58
+Lost ID 9
+   Detection0:IOU = 0.017
+  Lost ID 21
+
+Frame 58
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 58
+Lost ID 5
+   Detection0:IOU = 0.270
+  Lost ID 22
+
+Frame 58
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 58
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 59   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 59
+Lost ID 7
+   Detection0:IOU = 0.200
+  Lost ID 6
+
+Frame 59
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 59
+Lost ID 8
+   Detection0:IOU = 0.118
+  Lost ID 11
+
+Frame 59
+Lost ID 11
+   Detection0:IOU = 0.008
+  Lost ID 4
+
+Frame 59
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 59
+Lost ID 9
+   Detection0:IOU = 0.009
+  Lost ID 21
+
+Frame 59
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 59
+Lost ID 5
+   Detection0:IOU = 0.260
+  Lost ID 22
+
+Frame 59
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 59
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 60   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 60
+Lost ID 7
+   Detection0:IOU = 0.203
+  Lost ID 6
+
+Frame 60
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 60
+Lost ID 8
+   Detection0:IOU = 0.100
+  Lost ID 11
+
+Frame 60
+Lost ID 11
+   Detection0:IOU = 0.002
+  Lost ID 4
+
+Frame 60
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 60
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 60
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 60
+Lost ID 5
+   Detection0:IOU = 0.248
+  Lost ID 22
+
+Frame 60
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 60
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 61   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 61
+Lost ID 7
+   Detection0:IOU = 0.203
+  Lost ID 6
+
+Frame 61
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 61
+Lost ID 8
+   Detection0:IOU = 0.091
+  Lost ID 11
+
+Frame 61
+Lost ID 11
+   Detection0:IOU = 0.000
+  Lost ID 4
+
+Frame 61
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 61
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 61
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 61
+Lost ID 5
+   Detection0:IOU = 0.247
+  Lost ID 22
+
+Frame 61
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 61
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 62   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 62
+Lost ID 7
+   Detection0:IOU = 0.196
+  Lost ID 6
+
+Frame 62
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 62
+Lost ID 8
+   Detection0:IOU = 0.083
+  Lost ID 11
+
+Frame 62
+Lost ID 11
+   Detection0:IOU = 0.000
+  Lost ID 4
+
+Frame 62
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 62
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 62
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 62
+Lost ID 5
+   Detection0:IOU = 0.255
+  Lost ID 22
+
+Frame 62
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 62
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 63   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 63
+Lost ID 7
+   Detection0:IOU = 0.182
+  Lost ID 6
+
+Frame 63
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 63
+Lost ID 8
+   Detection0:IOU = 0.082
+  Lost ID 11
+
+Frame 63
+Lost ID 11
+   Detection0:IOU = 0.000
+  Lost ID 4
+
+Frame 63
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 63
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 63
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 63
+Lost ID 5
+   Detection0:IOU = 0.258
+  Lost ID 22
+
+Frame 63
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 63
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 64   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 64
+Lost ID 7
+   Detection0:IOU = 0.155
+  Lost ID 6
+
+Frame 64
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 64
+Lost ID 8
+   Detection0:IOU = 0.101
+  Lost ID 11
+
+Frame 64
+Lost ID 11
+   Detection0:IOU = 0.000
+  Lost ID 4
+
+Frame 64
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 64
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 64
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 64
+Lost ID 5
+   Detection0:IOU = 0.246
+  Lost ID 22
+
+Frame 64
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 64
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 65   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 65
+Lost ID 7
+   Detection0:IOU = 0.147
+  Lost ID 6
+
+Frame 65
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 65
+Lost ID 8
+   Detection0:IOU = 0.089
+  Lost ID 11
+
+Frame 65
+Lost ID 11
+   Detection0:IOU = 0.000
+  Lost ID 4
+
+Frame 65
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 65
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 65
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 65
+Lost ID 5
+   Detection0:IOU = 0.253
+  Lost ID 22
+
+Frame 65
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 65
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 66   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 66
+Lost ID 7
+   Detection0:IOU = 0.153
+  Lost ID 6
+
+Frame 66
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 66
+Lost ID 8
+   Detection0:IOU = 0.071
+  Lost ID 11
+
+Frame 66
+Lost ID 11
+   Detection0:IOU = 0.000
+  Lost ID 4
+
+Frame 66
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 66
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 66
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 66
+Lost ID 5
+   Detection0:IOU = 0.262
+  Lost ID 22
+
+Frame 66
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 66
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 67   |  Lost tracks: 10   |  Tracked: 1
+  Lost ID 7
+
+Frame 67
+Lost ID 7
+   Detection0:IOU = 0.152
+  Lost ID 6
+
+Frame 67
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 67
+Lost ID 8
+   Detection0:IOU = 0.070
+  Lost ID 11
+
+Frame 67
+Lost ID 11
+   Detection0:IOU = 0.000
+  Lost ID 4
+
+Frame 67
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 67
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 67
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 67
+Lost ID 5
+   Detection0:IOU = 0.250
+  Lost ID 22
+
+Frame 67
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 67
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 68   |  Lost tracks: 9   |  Tracked: 1
+  Lost ID 6
+
+Frame 68
+Lost ID 6
+   Detection0:IOU = 0.000
+  Lost ID 8
+
+Frame 68
+Lost ID 8
+   Detection0:IOU = 0.068
+  Lost ID 11
+
+Frame 68
+Lost ID 11
+   Detection0:IOU = 0.000
+  Lost ID 4
+
+Frame 68
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 68
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 68
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 68
+Lost ID 5
+   Detection0:IOU = 0.237
+  Lost ID 22
+
+Frame 68
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 68
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 69   |  Lost tracks: 8   |  Tracked: 1
+  Lost ID 8
+
+Frame 69
+Lost ID 8
+   Detection0:IOU = 0.060
+  Lost ID 11
+
+Frame 69
+Lost ID 11
+   Detection0:IOU = 0.000
+  Lost ID 4
+
+Frame 69
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 69
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 69
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 69
+Lost ID 5
+   Detection0:IOU = 0.257
+  Lost ID 22
+
+Frame 69
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 69
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 70   |  Lost tracks: 8   |  Tracked: 1
+  Lost ID 8
+
+Frame 70
+Lost ID 8
+   Detection0:IOU = 0.064
+  Lost ID 11
+
+Frame 70
+Lost ID 11
+   Detection0:IOU = 0.000
+  Lost ID 4
+
+Frame 70
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 70
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 70
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 70
+Lost ID 5
+   Detection0:IOU = 0.216
+  Lost ID 22
+
+Frame 70
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 70
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 71   |  Lost tracks: 8   |  Tracked: 1
+  Lost ID 8
+
+Frame 71
+Lost ID 8
+   Detection0:IOU = 0.087
+  Lost ID 11
+
+Frame 71
+Lost ID 11
+   Detection0:IOU = 0.000
+  Lost ID 4
+
+Frame 71
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 71
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 71
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 71
+Lost ID 5
+   Detection0:IOU = 0.159
+  Lost ID 22
+
+Frame 71
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 71
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 72   |  Lost tracks: 8   |  Tracked: 1
+  Lost ID 8
+
+Frame 72
+Lost ID 8
+   Detection0:IOU = 0.087
+  Lost ID 11
+
+Frame 72
+Lost ID 11
+   Detection0:IOU = 0.000
+  Lost ID 4
+
+Frame 72
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 72
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 72
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 72
+Lost ID 5
+   Detection0:IOU = 0.130
+  Lost ID 22
+
+Frame 72
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 72
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10  
+______________________________________
+Frame 73   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 4
+
+Frame 73
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 73
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 73
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 73
+Lost ID 5
+   Detection0:IOU = 0.114
+  Lost ID 22
+
+Frame 73
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 73
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10   24  
+______________________________________
+Frame 74   |  Lost tracks: 5   |  Tracked: 2
+  Lost ID 4
+
+Frame 74
+Lost ID 4
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 9
+
+Frame 74
+Lost ID 9
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.108
+  Lost ID 21
+
+Frame 74
+Lost ID 21
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 5
+
+Frame 74
+Lost ID 5
+   Detection0:IOU = 0.120
+   Detection1:IOU = 0.000
+  Lost ID 22
+
+Frame 74
+Lost ID 22
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.159
+Active IDs:   10   23  
+______________________________________
+Frame 75   |  Lost tracks: 5   |  Tracked: 2
+  Lost ID 4
+
+Frame 75
+Lost ID 4
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 9
+
+Frame 75
+Lost ID 9
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.104
+  Lost ID 21
+
+Frame 75
+Lost ID 21
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 5
+
+Frame 75
+Lost ID 5
+   Detection0:IOU = 0.090
+   Detection1:IOU = 0.000
+  Lost ID 22
+
+Frame 75
+Lost ID 22
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.158
+Active IDs:   10   23  
+______________________________________
+Frame 76   |  Lost tracks: 5   |  Tracked: 2
+  Lost ID 4
+
+Frame 76
+Lost ID 4
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 9
+
+Frame 76
+Lost ID 9
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.112
+  Lost ID 21
+
+Frame 76
+Lost ID 21
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 5
+
+Frame 76
+Lost ID 5
+   Detection0:IOU = 0.050
+   Detection1:IOU = 0.000
+  Lost ID 22
+
+Frame 76
+Lost ID 22
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.138
+Active IDs:   10   23  
+______________________________________
+Frame 77   |  Lost tracks: 6   |  Tracked: 8
+  Lost ID 4
+
+Frame 77
+Lost ID 4
+   Detection0:IOU = 0.000
+  Lost ID 9
+
+Frame 77
+Lost ID 9
+   Detection0:IOU = 0.000
+  Lost ID 21
+
+Frame 77
+Lost ID 21
+   Detection0:IOU = 0.000
+  Lost ID 5
+
+Frame 77
+Lost ID 5
+   Detection0:IOU = 0.000
+  Lost ID 22
+
+Frame 77
+Lost ID 22
+   Detection0:IOU = 0.000
+  Lost ID 23
+
+Frame 77
+Lost ID 23
+   Detection0:IOU = 0.000
+Active IDs:   10   25   26   27   28   29   30   31  
+______________________________________
+Frame 78   |  Lost tracks: 6   |  Tracked: 9
+  Lost ID 4
+
+Frame 78
+Lost ID 4
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 9
+
+Frame 78
+Lost ID 9
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 21
+
+Frame 78
+Lost ID 21
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 5
+
+Frame 78
+Lost ID 5
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.028
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 22
+
+Frame 78
+Lost ID 22
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 23
+
+Frame 78
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.111
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   10   25   26   28   29   32   33   34   35  
+______________________________________
+Frame 79   |  Lost tracks: 1   |  Tracked: 7
+  Lost ID 23
+
+Frame 79
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.098
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+Active IDs:   10   25   26   28   29   32   36  
+______________________________________
+Frame 80   |  Lost tracks: 1   |  Tracked: 7
+  Lost ID 23
+
+Frame 80
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.072
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+Active IDs:   10   25   26   28   29   32   37  
+______________________________________
+Frame 81   |  Lost tracks: 1   |  Tracked: 7
+  Lost ID 23
+
+Frame 81
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.054
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+Active IDs:   10   25   26   28   29   32   38  
+______________________________________
+Frame 82   |  Lost tracks: 1   |  Tracked: 8
+  Lost ID 23
+
+Frame 82
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.056
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+Active IDs:   10   25   26   28   29   32   39   40  
+______________________________________
+Frame 83   |  Lost tracks: 1   |  Tracked: 9
+  Lost ID 23
+
+Frame 83
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.040
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+Active IDs:   10   25   26   28   29   32   41   42   43  
+______________________________________
+Frame 84   |  Lost tracks: 4   |  Tracked: 5
+  Lost ID 23
+
+Frame 84
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.078
+  Lost ID 28
+
+Frame 84
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 29
+
+Frame 84
+Lost ID 29
+   Detection0:IOU = 0.035
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 32
+
+Frame 84
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+Active IDs:   10   25   26   44   45  
+______________________________________
+Frame 85   |  Lost tracks: 4   |  Tracked: 5
+  Lost ID 23
+
+Frame 85
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.084
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 28
+
+Frame 85
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 85
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 85
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   10   25   26   44   45  
+______________________________________
+Frame 86   |  Lost tracks: 4   |  Tracked: 6
+  Lost ID 23
+
+Frame 86
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.072
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 28
+
+Frame 86
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.004
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 86
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 86
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   10   25   26   44   45   46  
+______________________________________
+Frame 87   |  Lost tracks: 4   |  Tracked: 5
+  Lost ID 23
+
+Frame 87
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.053
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 28
+
+Frame 87
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.048
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 87
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 87
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   10   25   26   44   45  
+______________________________________
+Frame 88   |  Lost tracks: 4   |  Tracked: 6
+  Lost ID 23
+
+Frame 88
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.037
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 28
+
+Frame 88
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.095
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 88
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 88
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   10   25   26   44   45   47  
+______________________________________
+Frame 89   |  Lost tracks: 5   |  Tracked: 5
+  Lost ID 23
+
+Frame 89
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.024
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 28
+
+Frame 89
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.138
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 29
+
+Frame 89
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 32
+
+Frame 89
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 25
+
+Frame 89
+Lost ID 25
+   Detection0:IOU = 0.156
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.009
+   Detection3:IOU = 0.017
+Active IDs:   10   26   44   45   48  
+______________________________________
+Frame 90   |  Lost tracks: 4   |  Tracked: 6
+  Lost ID 23
+
+Frame 90
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.010
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 28
+
+Frame 90
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.186
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 90
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.001
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 90
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   10   26   44   45   49   25  
+______________________________________
+Frame 91   |  Lost tracks: 6   |  Tracked: 3
+  Lost ID 23
+
+Frame 91
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 28
+
+Frame 91
+Lost ID 28
+   Detection0:IOU = 0.212
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 29
+
+Frame 91
+Lost ID 29
+   Detection0:IOU = 0.084
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 32
+
+Frame 91
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 10
+
+Frame 91
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 25
+
+Frame 91
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.005
+   Detection2:IOU = 0.000
+Active IDs:   26   44   45  
+______________________________________
+Frame 92   |  Lost tracks: 6   |  Tracked: 4
+  Lost ID 23
+
+Frame 92
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 28
+
+Frame 92
+Lost ID 28
+   Detection0:IOU = 0.203
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 29
+
+Frame 92
+Lost ID 29
+   Detection0:IOU = 0.161
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 32
+
+Frame 92
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 10
+
+Frame 92
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 25
+
+Frame 92
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.015
+   Detection2:IOU = 0.000
+Active IDs:   26   44   45   50  
+______________________________________
+Frame 93   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 23
+
+Frame 93
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 28
+
+Frame 93
+Lost ID 28
+   Detection0:IOU = 0.195
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 29
+
+Frame 93
+Lost ID 29
+   Detection0:IOU = 0.219
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 32
+
+Frame 93
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 10
+
+Frame 93
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 25
+
+Frame 93
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+Active IDs:   26   44   45   51   52  
+______________________________________
+Frame 94   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 23
+
+Frame 94
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 28
+
+Frame 94
+Lost ID 28
+   Detection0:IOU = 0.120
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 94
+Lost ID 29
+   Detection0:IOU = 0.219
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 94
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 10
+
+Frame 94
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.242
+   Detection4:IOU = 0.000
+  Lost ID 25
+
+Frame 94
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.187
+   Detection4:IOU = 0.128
+Active IDs:   26   44   45   51   52  
+______________________________________
+Frame 95   |  Lost tracks: 7   |  Tracked: 4
+  Lost ID 23
+
+Frame 95
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 28
+
+Frame 95
+Lost ID 28
+   Detection0:IOU = 0.039
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 29
+
+Frame 95
+Lost ID 29
+   Detection0:IOU = 0.180
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 32
+
+Frame 95
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 10
+
+Frame 95
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 25
+
+Frame 95
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.089
+  Lost ID 51
+
+Frame 95
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.040
+Active IDs:   26   44   45   52  
+______________________________________
+Frame 96   |  Lost tracks: 7   |  Tracked: 5
+  Lost ID 23
+
+Frame 96
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 28
+
+Frame 96
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 29
+
+Frame 96
+Lost ID 29
+   Detection0:IOU = 0.112
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 32
+
+Frame 96
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 10
+
+Frame 96
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 25
+
+Frame 96
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.070
+  Lost ID 51
+
+Frame 96
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.043
+Active IDs:   26   44   45   52   53  
+______________________________________
+Frame 97   |  Lost tracks: 7   |  Tracked: 5
+  Lost ID 23
+
+Frame 97
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 28
+
+Frame 97
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 97
+Lost ID 29
+   Detection0:IOU = 0.048
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 97
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 10
+
+Frame 97
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 25
+
+Frame 97
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.062
+   Detection4:IOU = 0.000
+  Lost ID 51
+
+Frame 97
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.066
+   Detection4:IOU = 0.000
+Active IDs:   26   44   45   52   53  
+______________________________________
+Frame 98   |  Lost tracks: 7   |  Tracked: 5
+  Lost ID 23
+
+Frame 98
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 28
+
+Frame 98
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 98
+Lost ID 29
+   Detection0:IOU = 0.008
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 98
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 10
+
+Frame 98
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 25
+
+Frame 98
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.056
+   Detection4:IOU = 0.000
+  Lost ID 51
+
+Frame 98
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.078
+   Detection4:IOU = 0.000
+Active IDs:   26   44   45   52   53  
+______________________________________
+Frame 99   |  Lost tracks: 7   |  Tracked: 5
+  Lost ID 23
+
+Frame 99
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 28
+
+Frame 99
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 99
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.002
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 99
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 10
+
+Frame 99
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 25
+
+Frame 99
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.046
+   Detection4:IOU = 0.000
+  Lost ID 51
+
+Frame 99
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.086
+   Detection4:IOU = 0.000
+Active IDs:   26   44   45   52   53  
+______________________________________
+Frame 100   |  Lost tracks: 7   |  Tracked: 5
+  Lost ID 23
+
+Frame 100
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 28
+
+Frame 100
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 100
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 100
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 10
+
+Frame 100
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 25
+
+Frame 100
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.032
+   Detection4:IOU = 0.000
+  Lost ID 51
+
+Frame 100
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.088
+   Detection4:IOU = 0.000
+Active IDs:   26   44   45   52   53  
+______________________________________
+Frame 101   |  Lost tracks: 7   |  Tracked: 5
+  Lost ID 23
+
+Frame 101
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 28
+
+Frame 101
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 101
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 101
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 10
+
+Frame 101
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 25
+
+Frame 101
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.018
+   Detection4:IOU = 0.000
+  Lost ID 51
+
+Frame 101
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.082
+   Detection4:IOU = 0.000
+Active IDs:   26   44   45   52   53  
+______________________________________
+Frame 102   |  Lost tracks: 8   |  Tracked: 4
+  Lost ID 23
+
+Frame 102
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 28
+
+Frame 102
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 29
+
+Frame 102
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 32
+
+Frame 102
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 10
+
+Frame 102
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 25
+
+Frame 102
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.007
+  Lost ID 51
+
+Frame 102
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.075
+  Lost ID 53
+
+Frame 102
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.377
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.055
+Active IDs:   26   44   45   52  
+______________________________________
+Frame 103   |  Lost tracks: 8   |  Tracked: 4
+  Lost ID 23
+
+Frame 103
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 28
+
+Frame 103
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 29
+
+Frame 103
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 32
+
+Frame 103
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 10
+
+Frame 103
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 25
+
+Frame 103
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.001
+  Lost ID 51
+
+Frame 103
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.074
+  Lost ID 53
+
+Frame 103
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.415
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.019
+Active IDs:   26   44   45   52  
+______________________________________
+Frame 104   |  Lost tracks: 8   |  Tracked: 4
+  Lost ID 23
+
+Frame 104
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 28
+
+Frame 104
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 29
+
+Frame 104
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.010
+   Detection3:IOU = 0.000
+  Lost ID 32
+
+Frame 104
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 10
+
+Frame 104
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 25
+
+Frame 104
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 51
+
+Frame 104
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.066
+  Lost ID 53
+
+Frame 104
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.421
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+Active IDs:   26   44   45   52  
+______________________________________
+Frame 105   |  Lost tracks: 8   |  Tracked: 4
+  Lost ID 23
+
+Frame 105
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 28
+
+Frame 105
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 29
+
+Frame 105
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.030
+   Detection3:IOU = 0.000
+  Lost ID 32
+
+Frame 105
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 10
+
+Frame 105
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 25
+
+Frame 105
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 51
+
+Frame 105
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.055
+  Lost ID 53
+
+Frame 105
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.419
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+Active IDs:   26   44   45   52  
+______________________________________
+Frame 106   |  Lost tracks: 8   |  Tracked: 4
+  Lost ID 23
+
+Frame 106
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 28
+
+Frame 106
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 29
+
+Frame 106
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.066
+   Detection3:IOU = 0.000
+  Lost ID 32
+
+Frame 106
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 10
+
+Frame 106
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 25
+
+Frame 106
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 51
+
+Frame 106
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.049
+  Lost ID 53
+
+Frame 106
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.371
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+Active IDs:   26   44   45   52  
+______________________________________
+Frame 107   |  Lost tracks: 8   |  Tracked: 4
+  Lost ID 23
+
+Frame 107
+Lost ID 23
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 28
+
+Frame 107
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 29
+
+Frame 107
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.066
+   Detection3:IOU = 0.000
+  Lost ID 32
+
+Frame 107
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 10
+
+Frame 107
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 25
+
+Frame 107
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 51
+
+Frame 107
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.042
+  Lost ID 53
+
+Frame 107
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.387
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+Active IDs:   26   44   45   52  
+______________________________________
+Frame 108   |  Lost tracks: 7   |  Tracked: 4
+  Lost ID 28
+
+Frame 108
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 29
+
+Frame 108
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.074
+   Detection3:IOU = 0.000
+  Lost ID 32
+
+Frame 108
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 10
+
+Frame 108
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 25
+
+Frame 108
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 51
+
+Frame 108
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.040
+  Lost ID 53
+
+Frame 108
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.408
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+Active IDs:   26   44   45   52  
+______________________________________
+Frame 109   |  Lost tracks: 7   |  Tracked: 4
+  Lost ID 28
+
+Frame 109
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 29
+
+Frame 109
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.063
+   Detection3:IOU = 0.000
+  Lost ID 32
+
+Frame 109
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 10
+
+Frame 109
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 25
+
+Frame 109
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 51
+
+Frame 109
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.044
+  Lost ID 53
+
+Frame 109
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.414
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+Active IDs:   26   44   45   52  
+______________________________________
+Frame 110   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 28
+
+Frame 110
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 110
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.053
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 110
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 10
+
+Frame 110
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 25
+
+Frame 110
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 51
+
+Frame 110
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.053
+   Detection4:IOU = 0.000
+Active IDs:   26   44   45   52   53  
+______________________________________
+Frame 111   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 28
+
+Frame 111
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 111
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.018
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 111
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 10
+
+Frame 111
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 25
+
+Frame 111
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 51
+
+Frame 111
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.053
+   Detection4:IOU = 0.000
+Active IDs:   26   44   45   52   53  
+______________________________________
+Frame 112   |  Lost tracks: 6   |  Tracked: 6
+  Lost ID 28
+
+Frame 112
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 112
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 112
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 10
+
+Frame 112
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 25
+
+Frame 112
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 51
+
+Frame 112
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.058
+   Detection4:IOU = 0.000
+Active IDs:   26   44   45   52   53   54  
+______________________________________
+Frame 113   |  Lost tracks: 5   |  Tracked: 6
+  Lost ID 28
+
+Frame 113
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 29
+
+Frame 113
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 32
+
+Frame 113
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 10
+
+Frame 113
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 25
+
+Frame 113
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+Active IDs:   26   44   45   52   53   51  
+______________________________________
+Frame 114   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 28
+
+Frame 114
+Lost ID 28
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 29
+
+Frame 114
+Lost ID 29
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 32
+
+Frame 114
+Lost ID 32
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 10
+
+Frame 114
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 25
+
+Frame 114
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 26
+
+Frame 114
+Lost ID 26
+   Detection0:IOU = 0.045
+   Detection1:IOU = 0.134
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   44   45   52   53   51  
+______________________________________
+Frame 115   |  Lost tracks: 3   |  Tracked: 5
+  Lost ID 10
+
+Frame 115
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 25
+
+Frame 115
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 45
+
+Frame 115
+Lost ID 45
+   Detection0:IOU = 0.174
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.167
+Active IDs:   44   52   53   51   26  
+______________________________________
+Frame 116   |  Lost tracks: 2   |  Tracked: 7
+  Lost ID 10
+
+Frame 116
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 25
+
+Frame 116
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+Active IDs:   44   52   53   51   26   55   45  
+______________________________________
+Frame 117   |  Lost tracks: 2   |  Tracked: 6
+  Lost ID 10
+
+Frame 117
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 25
+
+Frame 117
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+Active IDs:   44   52   53   51   26   45  
+______________________________________
+Frame 118   |  Lost tracks: 2   |  Tracked: 6
+  Lost ID 10
+
+Frame 118
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 25
+
+Frame 118
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+Active IDs:   44   52   53   51   26   45  
+______________________________________
+Frame 119   |  Lost tracks: 2   |  Tracked: 6
+  Lost ID 10
+
+Frame 119
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 25
+
+Frame 119
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+Active IDs:   44   52   53   51   26   45  
+______________________________________
+Frame 120   |  Lost tracks: 2   |  Tracked: 6
+  Lost ID 10
+
+Frame 120
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 25
+
+Frame 120
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+Active IDs:   44   52   53   51   26   45  
+______________________________________
+Frame 121   |  Lost tracks: 2   |  Tracked: 6
+  Lost ID 10
+
+Frame 121
+Lost ID 10
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+  Lost ID 25
+
+Frame 121
+Lost ID 25
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+   Detection5:IOU = 0.000
+Active IDs:   44   52   53   51   26   45  
+______________________________________
+Frame 122   |  Lost tracks: 0   |  Tracked: 6
+Active IDs:   44   52   53   51   26   45  
+______________________________________
+Frame 123   |  Lost tracks: 0   |  Tracked: 8
+Active IDs:   44   52   53   51   26   45   56   57  
+______________________________________
+Frame 124   |  Lost tracks: 0   |  Tracked: 10
+Active IDs:   44   52   53   51   26   45   58   59   60   61  
+______________________________________
+Frame 125   |  Lost tracks: 0   |  Tracked: 7
+Active IDs:   44   52   53   51   26   45   61  
+______________________________________
+Frame 126   |  Lost tracks: 1   |  Tracked: 6
+  Lost ID 61
+
+Frame 126
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.037
+   Detection4:IOU = 0.720
+   Detection5:IOU = 0.000
+Active IDs:   44   52   53   51   26   45  
+______________________________________
+Frame 127   |  Lost tracks: 0   |  Tracked: 7
+Active IDs:   44   52   53   51   26   45   61  
+______________________________________
+Frame 128   |  Lost tracks: 0   |  Tracked: 7
+Active IDs:   44   52   53   51   26   45   61  
+______________________________________
+Frame 129   |  Lost tracks: 0   |  Tracked: 7
+Active IDs:   44   52   53   51   26   45   61  
+______________________________________
+Frame 130   |  Lost tracks: 2   |  Tracked: 6
+  Lost ID 51
+
+Frame 130
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.270
+   Detection4:IOU = 0.042
+  Lost ID 26
+
+Frame 130
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.370
+Active IDs:   44   52   53   45   61   62  
+______________________________________
+Frame 131   |  Lost tracks: 2   |  Tracked: 6
+  Lost ID 51
+
+Frame 131
+Lost ID 51
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.243
+   Detection4:IOU = 0.068
+  Lost ID 26
+
+Frame 131
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.318
+Active IDs:   44   52   53   45   61   63  
+______________________________________
+Frame 132   |  Lost tracks: 5   |  Tracked: 3
+  Lost ID 26
+
+Frame 132
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 132
+Lost ID 44
+   Detection0:IOU = 0.058
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 132
+Lost ID 53
+   Detection0:IOU = 0.176
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 132
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.190
+  Lost ID 61
+
+Frame 132
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.157
+Active IDs:   52   64   51  
+______________________________________
+Frame 133   |  Lost tracks: 5   |  Tracked: 3
+  Lost ID 26
+
+Frame 133
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.001
+  Lost ID 44
+
+Frame 133
+Lost ID 44
+   Detection0:IOU = 0.158
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 53
+
+Frame 133
+Lost ID 53
+   Detection0:IOU = 0.077
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 45
+
+Frame 133
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.164
+  Lost ID 61
+
+Frame 133
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.171
+Active IDs:   52   64   51  
+______________________________________
+Frame 134   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 134
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.021
+  Lost ID 44
+
+Frame 134
+Lost ID 44
+   Detection0:IOU = 0.209
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 134
+Lost ID 53
+   Detection0:IOU = 0.006
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 134
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.120
+  Lost ID 61
+
+Frame 134
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.174
+  Lost ID 64
+
+Frame 134
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 135   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 135
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.013
+  Lost ID 44
+
+Frame 135
+Lost ID 44
+   Detection0:IOU = 0.193
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 135
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 135
+Lost ID 45
+   Detection0:IOU = 0.018
+   Detection1:IOU = 0.121
+  Lost ID 61
+
+Frame 135
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.162
+  Lost ID 64
+
+Frame 135
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 136   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 136
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 136
+Lost ID 44
+   Detection0:IOU = 0.195
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 136
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 136
+Lost ID 45
+   Detection0:IOU = 0.064
+   Detection1:IOU = 0.141
+  Lost ID 61
+
+Frame 136
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.149
+  Lost ID 64
+
+Frame 136
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 137   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 137
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 137
+Lost ID 44
+   Detection0:IOU = 0.171
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 137
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 137
+Lost ID 45
+   Detection0:IOU = 0.096
+   Detection1:IOU = 0.146
+  Lost ID 61
+
+Frame 137
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.149
+  Lost ID 64
+
+Frame 137
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 138   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 138
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 138
+Lost ID 44
+   Detection0:IOU = 0.120
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 138
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 138
+Lost ID 45
+   Detection0:IOU = 0.135
+   Detection1:IOU = 0.142
+  Lost ID 61
+
+Frame 138
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.163
+  Lost ID 64
+
+Frame 138
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 139   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 139
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 139
+Lost ID 44
+   Detection0:IOU = 0.075
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 139
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 139
+Lost ID 45
+   Detection0:IOU = 0.170
+   Detection1:IOU = 0.126
+  Lost ID 61
+
+Frame 139
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.153
+  Lost ID 64
+
+Frame 139
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 140   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 140
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 140
+Lost ID 44
+   Detection0:IOU = 0.061
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 140
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 140
+Lost ID 45
+   Detection0:IOU = 0.172
+   Detection1:IOU = 0.142
+  Lost ID 61
+
+Frame 140
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.142
+  Lost ID 64
+
+Frame 140
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 141   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 141
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 141
+Lost ID 44
+   Detection0:IOU = 0.083
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 141
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 141
+Lost ID 45
+   Detection0:IOU = 0.134
+   Detection1:IOU = 0.172
+  Lost ID 61
+
+Frame 141
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.100
+  Lost ID 64
+
+Frame 141
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 142   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 142
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 142
+Lost ID 44
+   Detection0:IOU = 0.118
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 142
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 142
+Lost ID 45
+   Detection0:IOU = 0.085
+   Detection1:IOU = 0.213
+  Lost ID 61
+
+Frame 142
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.062
+  Lost ID 64
+
+Frame 142
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 143   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 143
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 143
+Lost ID 44
+   Detection0:IOU = 0.156
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 143
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 143
+Lost ID 45
+   Detection0:IOU = 0.018
+   Detection1:IOU = 0.249
+  Lost ID 61
+
+Frame 143
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.055
+  Lost ID 64
+
+Frame 143
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 144   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 144
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 144
+Lost ID 44
+   Detection0:IOU = 0.233
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 144
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 144
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.251
+  Lost ID 61
+
+Frame 144
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.039
+  Lost ID 64
+
+Frame 144
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 145   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 145
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 145
+Lost ID 44
+   Detection0:IOU = 0.257
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 145
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 145
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.250
+  Lost ID 61
+
+Frame 145
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.026
+  Lost ID 64
+
+Frame 145
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 146   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 146
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 146
+Lost ID 44
+   Detection0:IOU = 0.276
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 146
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 146
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.258
+  Lost ID 61
+
+Frame 146
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.034
+  Lost ID 64
+
+Frame 146
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 147   |  Lost tracks: 6   |  Tracked: 3
+  Lost ID 26
+
+Frame 147
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 147
+Lost ID 44
+   Detection0:IOU = 0.290
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 147
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 147
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.239
+  Lost ID 61
+
+Frame 147
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.041
+  Lost ID 64
+
+Frame 147
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51   65  
+______________________________________
+Frame 148   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 148
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 148
+Lost ID 44
+   Detection0:IOU = 0.236
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 148
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 148
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.222
+  Lost ID 61
+
+Frame 148
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.050
+  Lost ID 64
+
+Frame 148
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 149   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 149
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 149
+Lost ID 44
+   Detection0:IOU = 0.179
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 149
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 149
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.170
+  Lost ID 61
+
+Frame 149
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.073
+  Lost ID 64
+
+Frame 149
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 150   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 150
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 150
+Lost ID 44
+   Detection0:IOU = 0.101
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 150
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 150
+Lost ID 45
+   Detection0:IOU = 0.033
+   Detection1:IOU = 0.109
+  Lost ID 61
+
+Frame 150
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.092
+  Lost ID 64
+
+Frame 150
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 151   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 151
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 151
+Lost ID 44
+   Detection0:IOU = 0.036
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 151
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 151
+Lost ID 45
+   Detection0:IOU = 0.079
+   Detection1:IOU = 0.000
+  Lost ID 61
+
+Frame 151
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.071
+  Lost ID 64
+
+Frame 151
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 152   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 152
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 152
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 152
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 152
+Lost ID 45
+   Detection0:IOU = 0.136
+   Detection1:IOU = 0.000
+  Lost ID 61
+
+Frame 152
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.043
+  Lost ID 64
+
+Frame 152
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 153   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 153
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 153
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 153
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 153
+Lost ID 45
+   Detection0:IOU = 0.108
+   Detection1:IOU = 0.000
+  Lost ID 61
+
+Frame 153
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.038
+  Lost ID 64
+
+Frame 153
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 154   |  Lost tracks: 6   |  Tracked: 2
+  Lost ID 26
+
+Frame 154
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 154
+Lost ID 44
+   Detection0:IOU = 0.068
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 154
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 154
+Lost ID 45
+   Detection0:IOU = 0.005
+   Detection1:IOU = 0.000
+  Lost ID 61
+
+Frame 154
+Lost ID 61
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.025
+  Lost ID 64
+
+Frame 154
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   52   51  
+______________________________________
+Frame 155   |  Lost tracks: 6   |  Tracked: 4
+  Lost ID 26
+
+Frame 155
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 155
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 155
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 61
+
+Frame 155
+Lost ID 61
+   Detection0:IOU = 0.030
+   Detection1:IOU = 0.000
+  Lost ID 64
+
+Frame 155
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.153
+  Lost ID 52
+
+Frame 155
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.177
+Active IDs:   51   66   67   44  
+______________________________________
+Frame 156   |  Lost tracks: 6   |  Tracked: 4
+  Lost ID 26
+
+Frame 156
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 156
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 156
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 61
+
+Frame 156
+Lost ID 61
+   Detection0:IOU = 0.042
+   Detection1:IOU = 0.000
+  Lost ID 52
+
+Frame 156
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 156
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.410
+Active IDs:   51   68   69   64  
+______________________________________
+Frame 157   |  Lost tracks: 6   |  Tracked: 3
+  Lost ID 26
+
+Frame 157
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 157
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 157
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 61
+
+Frame 157
+Lost ID 61
+   Detection0:IOU = 0.037
+   Detection1:IOU = 0.000
+  Lost ID 52
+
+Frame 157
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 157
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.266
+Active IDs:   51   64   70  
+______________________________________
+Frame 158   |  Lost tracks: 7   |  Tracked: 3
+  Lost ID 26
+
+Frame 158
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.013
+  Lost ID 53
+
+Frame 158
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 158
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 61
+
+Frame 158
+Lost ID 61
+   Detection0:IOU = 0.028
+   Detection1:IOU = 0.000
+  Lost ID 52
+
+Frame 158
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 44
+
+Frame 158
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 64
+
+Frame 158
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+Active IDs:   51   70   71  
+______________________________________
+Frame 159   |  Lost tracks: 7   |  Tracked: 2
+  Lost ID 26
+
+Frame 159
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 159
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 159
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.114
+  Lost ID 52
+
+Frame 159
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.067
+  Lost ID 44
+
+Frame 159
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 64
+
+Frame 159
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 70
+
+Frame 159
+Lost ID 70
+   Detection0:IOU = 0.158
+   Detection1:IOU = 0.203
+Active IDs:   51   61  
+______________________________________
+Frame 160   |  Lost tracks: 7   |  Tracked: 2
+  Lost ID 26
+
+Frame 160
+Lost ID 26
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 53
+
+Frame 160
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 45
+
+Frame 160
+Lost ID 45
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.122
+  Lost ID 52
+
+Frame 160
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.069
+  Lost ID 44
+
+Frame 160
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 64
+
+Frame 160
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+  Lost ID 70
+
+Frame 160
+Lost ID 70
+   Detection0:IOU = 0.116
+   Detection1:IOU = 0.118
+Active IDs:   51   61  
+______________________________________
+Frame 161   |  Lost tracks: 5   |  Tracked: 4
+  Lost ID 53
+
+Frame 161
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 52
+
+Frame 161
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.037
+  Lost ID 44
+
+Frame 161
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 64
+
+Frame 161
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+  Lost ID 70
+
+Frame 161
+Lost ID 70
+   Detection0:IOU = 0.114
+   Detection1:IOU = 0.168
+   Detection2:IOU = 0.000
+Active IDs:   51   61   72   45  
+______________________________________
+Frame 162   |  Lost tracks: 5   |  Tracked: 4
+  Lost ID 53
+
+Frame 162
+Lost ID 53
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 52
+
+Frame 162
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.097
+  Lost ID 44
+
+Frame 162
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 162
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 162
+Lost ID 70
+   Detection0:IOU = 0.143
+   Detection1:IOU = 0.132
+   Detection2:IOU = 0.055
+   Detection3:IOU = 0.000
+Active IDs:   51   61   72   45  
+______________________________________
+Frame 163   |  Lost tracks: 7   |  Tracked: 4
+  Lost ID 52
+
+Frame 163
+Lost ID 52
+   Detection0:IOU = 0.000
+  Lost ID 44
+
+Frame 163
+Lost ID 44
+   Detection0:IOU = 0.000
+  Lost ID 64
+
+Frame 163
+Lost ID 64
+   Detection0:IOU = 0.000
+  Lost ID 70
+
+Frame 163
+Lost ID 70
+   Detection0:IOU = 0.000
+  Lost ID 51
+
+Frame 163
+Lost ID 51
+   Detection0:IOU = 0.000
+  Lost ID 61
+
+Frame 163
+Lost ID 61
+   Detection0:IOU = 0.216
+  Lost ID 72
+
+Frame 163
+Lost ID 72
+   Detection0:IOU = 0.000
+Active IDs:   45   73   74   75  
+______________________________________
+Frame 164   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 52
+
+Frame 164
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 44
+
+Frame 164
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 164
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 164
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 61
+
+Frame 164
+Lost ID 61
+   Detection0:IOU = 0.106
+   Detection1:IOU = 0.063
+   Detection2:IOU = 0.066
+   Detection3:IOU = 0.136
+  Lost ID 72
+
+Frame 164
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+Active IDs:   45   74   75   76   51  
+______________________________________
+Frame 165   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 52
+
+Frame 165
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 44
+
+Frame 165
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 165
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 165
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 61
+
+Frame 165
+Lost ID 61
+   Detection0:IOU = 0.086
+   Detection1:IOU = 0.041
+   Detection2:IOU = 0.065
+   Detection3:IOU = 0.088
+  Lost ID 72
+
+Frame 165
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+Active IDs:   45   74   75   51   77  
+______________________________________
+Frame 166   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 52
+
+Frame 166
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 44
+
+Frame 166
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 64
+
+Frame 166
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 70
+
+Frame 166
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 61
+
+Frame 166
+Lost ID 61
+   Detection0:IOU = 0.078
+   Detection1:IOU = 0.030
+   Detection2:IOU = 0.064
+   Detection3:IOU = 0.076
+   Detection4:IOU = 0.034
+  Lost ID 72
+
+Frame 166
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   45   74   75   51   77  
+______________________________________
+Frame 167   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 52
+
+Frame 167
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 44
+
+Frame 167
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 64
+
+Frame 167
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 70
+
+Frame 167
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 61
+
+Frame 167
+Lost ID 61
+   Detection0:IOU = 0.076
+   Detection1:IOU = 0.034
+   Detection2:IOU = 0.063
+   Detection3:IOU = 0.068
+   Detection4:IOU = 0.037
+  Lost ID 72
+
+Frame 167
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   45   74   75   51   77  
+______________________________________
+Frame 168   |  Lost tracks: 7   |  Tracked: 4
+  Lost ID 52
+
+Frame 168
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 44
+
+Frame 168
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 168
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 168
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 61
+
+Frame 168
+Lost ID 61
+   Detection0:IOU = 0.076
+   Detection1:IOU = 0.042
+   Detection2:IOU = 0.064
+   Detection3:IOU = 0.070
+  Lost ID 72
+
+Frame 168
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 168
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.167
+   Detection3:IOU = 0.000
+Active IDs:   45   74   75   51  
+______________________________________
+Frame 169   |  Lost tracks: 7   |  Tracked: 4
+  Lost ID 52
+
+Frame 169
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 44
+
+Frame 169
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 169
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 169
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 61
+
+Frame 169
+Lost ID 61
+   Detection0:IOU = 0.075
+   Detection1:IOU = 0.044
+   Detection2:IOU = 0.066
+   Detection3:IOU = 0.073
+  Lost ID 72
+
+Frame 169
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 169
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.156
+   Detection3:IOU = 0.000
+Active IDs:   45   74   75   51  
+______________________________________
+Frame 170   |  Lost tracks: 7   |  Tracked: 4
+  Lost ID 52
+
+Frame 170
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 44
+
+Frame 170
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 170
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 170
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 61
+
+Frame 170
+Lost ID 61
+   Detection0:IOU = 0.076
+   Detection1:IOU = 0.038
+   Detection2:IOU = 0.066
+   Detection3:IOU = 0.073
+  Lost ID 72
+
+Frame 170
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 170
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.149
+   Detection3:IOU = 0.000
+Active IDs:   45   74   75   51  
+______________________________________
+Frame 171   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 52
+
+Frame 171
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 44
+
+Frame 171
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 64
+
+Frame 171
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 70
+
+Frame 171
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 61
+
+Frame 171
+Lost ID 61
+   Detection0:IOU = 0.080
+   Detection1:IOU = 0.035
+   Detection2:IOU = 0.067
+   Detection3:IOU = 0.076
+   Detection4:IOU = 0.032
+  Lost ID 72
+
+Frame 171
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   45   74   75   51   77  
+______________________________________
+Frame 172   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 52
+
+Frame 172
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 44
+
+Frame 172
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 64
+
+Frame 172
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 70
+
+Frame 172
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 61
+
+Frame 172
+Lost ID 61
+   Detection0:IOU = 0.081
+   Detection1:IOU = 0.032
+   Detection2:IOU = 0.068
+   Detection3:IOU = 0.079
+   Detection4:IOU = 0.028
+  Lost ID 72
+
+Frame 172
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   45   74   75   51   77  
+______________________________________
+Frame 173   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 52
+
+Frame 173
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 44
+
+Frame 173
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 64
+
+Frame 173
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 70
+
+Frame 173
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 61
+
+Frame 173
+Lost ID 61
+   Detection0:IOU = 0.080
+   Detection1:IOU = 0.035
+   Detection2:IOU = 0.063
+   Detection3:IOU = 0.078
+   Detection4:IOU = 0.026
+  Lost ID 72
+
+Frame 173
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   45   74   75   51   77  
+______________________________________
+Frame 174   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 52
+
+Frame 174
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 44
+
+Frame 174
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 64
+
+Frame 174
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 70
+
+Frame 174
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.006
+   Detection4:IOU = 0.000
+  Lost ID 61
+
+Frame 174
+Lost ID 61
+   Detection0:IOU = 0.079
+   Detection1:IOU = 0.036
+   Detection2:IOU = 0.061
+   Detection3:IOU = 0.075
+   Detection4:IOU = 0.028
+  Lost ID 72
+
+Frame 174
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   45   74   75   51   77  
+______________________________________
+Frame 175   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 52
+
+Frame 175
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 44
+
+Frame 175
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 64
+
+Frame 175
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 70
+
+Frame 175
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.012
+   Detection4:IOU = 0.000
+  Lost ID 61
+
+Frame 175
+Lost ID 61
+   Detection0:IOU = 0.080
+   Detection1:IOU = 0.036
+   Detection2:IOU = 0.061
+   Detection3:IOU = 0.077
+   Detection4:IOU = 0.026
+  Lost ID 72
+
+Frame 175
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   45   74   75   51   77  
+______________________________________
+Frame 176   |  Lost tracks: 7   |  Tracked: 4
+  Lost ID 52
+
+Frame 176
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 44
+
+Frame 176
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 176
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 176
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.018
+  Lost ID 61
+
+Frame 176
+Lost ID 61
+   Detection0:IOU = 0.083
+   Detection1:IOU = 0.033
+   Detection2:IOU = 0.064
+   Detection3:IOU = 0.081
+  Lost ID 72
+
+Frame 176
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 176
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.108
+   Detection3:IOU = 0.000
+Active IDs:   45   74   75   51  
+______________________________________
+Frame 177   |  Lost tracks: 7   |  Tracked: 4
+  Lost ID 52
+
+Frame 177
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 44
+
+Frame 177
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 177
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 177
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.027
+  Lost ID 61
+
+Frame 177
+Lost ID 61
+   Detection0:IOU = 0.087
+   Detection1:IOU = 0.040
+   Detection2:IOU = 0.073
+   Detection3:IOU = 0.085
+  Lost ID 72
+
+Frame 177
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 177
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.146
+   Detection3:IOU = 0.000
+Active IDs:   45   74   75   51  
+______________________________________
+Frame 178   |  Lost tracks: 7   |  Tracked: 4
+  Lost ID 52
+
+Frame 178
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 44
+
+Frame 178
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 178
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 178
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.035
+  Lost ID 61
+
+Frame 178
+Lost ID 61
+   Detection0:IOU = 0.089
+   Detection1:IOU = 0.036
+   Detection2:IOU = 0.079
+   Detection3:IOU = 0.085
+  Lost ID 72
+
+Frame 178
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 178
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.183
+   Detection3:IOU = 0.000
+Active IDs:   45   74   75   51  
+______________________________________
+Frame 179   |  Lost tracks: 7   |  Tracked: 4
+  Lost ID 52
+
+Frame 179
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 44
+
+Frame 179
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 179
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 179
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.039
+  Lost ID 61
+
+Frame 179
+Lost ID 61
+   Detection0:IOU = 0.083
+   Detection1:IOU = 0.032
+   Detection2:IOU = 0.072
+   Detection3:IOU = 0.073
+  Lost ID 72
+
+Frame 179
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 179
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.158
+   Detection3:IOU = 0.000
+Active IDs:   45   74   75   51  
+______________________________________
+Frame 180   |  Lost tracks: 7   |  Tracked: 5
+  Lost ID 52
+
+Frame 180
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 44
+
+Frame 180
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 180
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 180
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.044
+  Lost ID 61
+
+Frame 180
+Lost ID 61
+   Detection0:IOU = 0.081
+   Detection1:IOU = 0.033
+   Detection2:IOU = 0.068
+   Detection3:IOU = 0.062
+  Lost ID 72
+
+Frame 180
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 180
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.147
+   Detection3:IOU = 0.000
+Active IDs:   45   74   75   51   78  
+______________________________________
+Frame 181   |  Lost tracks: 7   |  Tracked: 4
+  Lost ID 52
+
+Frame 181
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 44
+
+Frame 181
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 181
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 181
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.060
+  Lost ID 61
+
+Frame 181
+Lost ID 61
+   Detection0:IOU = 0.085
+   Detection1:IOU = 0.045
+   Detection2:IOU = 0.070
+   Detection3:IOU = 0.051
+  Lost ID 72
+
+Frame 181
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 181
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.148
+   Detection3:IOU = 0.000
+Active IDs:   45   74   75   51  
+______________________________________
+Frame 182   |  Lost tracks: 7   |  Tracked: 4
+  Lost ID 52
+
+Frame 182
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 44
+
+Frame 182
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 182
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 182
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.065
+  Lost ID 61
+
+Frame 182
+Lost ID 61
+   Detection0:IOU = 0.089
+   Detection1:IOU = 0.043
+   Detection2:IOU = 0.076
+   Detection3:IOU = 0.040
+  Lost ID 72
+
+Frame 182
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 182
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.158
+   Detection3:IOU = 0.000
+Active IDs:   45   74   75   51  
+______________________________________
+Frame 183   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 52
+
+Frame 183
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 44
+
+Frame 183
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 64
+
+Frame 183
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 70
+
+Frame 183
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.041
+   Detection4:IOU = 0.000
+  Lost ID 61
+
+Frame 183
+Lost ID 61
+   Detection0:IOU = 0.088
+   Detection1:IOU = 0.039
+   Detection2:IOU = 0.075
+   Detection3:IOU = 0.051
+   Detection4:IOU = 0.025
+  Lost ID 72
+
+Frame 183
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   45   74   75   51   77  
+______________________________________
+Frame 184   |  Lost tracks: 7   |  Tracked: 4
+  Lost ID 52
+
+Frame 184
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 44
+
+Frame 184
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 184
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 184
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.019
+  Lost ID 61
+
+Frame 184
+Lost ID 61
+   Detection0:IOU = 0.091
+   Detection1:IOU = 0.031
+   Detection2:IOU = 0.077
+   Detection3:IOU = 0.063
+  Lost ID 72
+
+Frame 184
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 184
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.144
+   Detection3:IOU = 0.000
+Active IDs:   45   74   75   51  
+______________________________________
+Frame 185   |  Lost tracks: 7   |  Tracked: 5
+  Lost ID 52
+
+Frame 185
+Lost ID 52
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 44
+
+Frame 185
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 64
+
+Frame 185
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 185
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.009
+  Lost ID 61
+
+Frame 185
+Lost ID 61
+   Detection0:IOU = 0.089
+   Detection1:IOU = 0.027
+   Detection2:IOU = 0.084
+   Detection3:IOU = 0.066
+  Lost ID 72
+
+Frame 185
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 185
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.174
+   Detection3:IOU = 0.000
+Active IDs:   45   74   75   51   79  
+______________________________________
+Frame 186   |  Lost tracks: 6   |  Tracked: 7
+  Lost ID 44
+
+Frame 186
+Lost ID 44
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 64
+
+Frame 186
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 70
+
+Frame 186
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.013
+   Detection4:IOU = 0.000
+  Lost ID 61
+
+Frame 186
+Lost ID 61
+   Detection0:IOU = 0.087
+   Detection1:IOU = 0.019
+   Detection2:IOU = 0.078
+   Detection3:IOU = 0.065
+   Detection4:IOU = 0.049
+  Lost ID 72
+
+Frame 186
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 77
+
+Frame 186
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.187
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+Active IDs:   45   74   75   51   79   80   81  
+______________________________________
+Frame 187   |  Lost tracks: 6   |  Tracked: 6
+  Lost ID 64
+
+Frame 187
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 187
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.029
+   Detection3:IOU = 0.000
+  Lost ID 61
+
+Frame 187
+Lost ID 61
+   Detection0:IOU = 0.087
+   Detection1:IOU = 0.071
+   Detection2:IOU = 0.048
+   Detection3:IOU = 0.045
+  Lost ID 72
+
+Frame 187
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 187
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.175
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 74
+
+Frame 187
+Lost ID 74
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.007
+   Detection3:IOU = 0.370
+Active IDs:   45   75   51   79   82   83  
+______________________________________
+Frame 188   |  Lost tracks: 6   |  Tracked: 5
+  Lost ID 64
+
+Frame 188
+Lost ID 64
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 70
+
+Frame 188
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.036
+   Detection3:IOU = 0.000
+  Lost ID 61
+
+Frame 188
+Lost ID 61
+   Detection0:IOU = 0.084
+   Detection1:IOU = 0.072
+   Detection2:IOU = 0.039
+   Detection3:IOU = 0.037
+  Lost ID 72
+
+Frame 188
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 188
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.126
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 74
+
+Frame 188
+Lost ID 74
+   Detection0:IOU = 0.001
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.006
+   Detection3:IOU = 0.452
+Active IDs:   45   75   51   79   84  
+______________________________________
+Frame 189   |  Lost tracks: 5   |  Tracked: 7
+  Lost ID 70
+
+Frame 189
+Lost ID 70
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.072
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 61
+
+Frame 189
+Lost ID 61
+   Detection0:IOU = 0.077
+   Detection1:IOU = 0.080
+   Detection2:IOU = 0.022
+   Detection3:IOU = 0.064
+   Detection4:IOU = 0.023
+  Lost ID 72
+
+Frame 189
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 77
+
+Frame 189
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.121
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.140
+  Lost ID 74
+
+Frame 189
+Lost ID 74
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.003
+   Detection3:IOU = 0.249
+   Detection4:IOU = 0.000
+Active IDs:   45   75   51   79   84   85   86  
+______________________________________
+Frame 190   |  Lost tracks: 4   |  Tracked: 5
+  Lost ID 61
+
+Frame 190
+Lost ID 61
+   Detection0:IOU = 0.081
+   Detection1:IOU = 0.072
+   Detection2:IOU = 0.007
+   Detection3:IOU = 0.067
+   Detection4:IOU = 0.036
+  Lost ID 72
+
+Frame 190
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 77
+
+Frame 190
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.104
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.219
+  Lost ID 74
+
+Frame 190
+Lost ID 74
+   Detection0:IOU = 0.001
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.199
+   Detection4:IOU = 0.000
+Active IDs:   45   75   51   79   84  
+______________________________________
+Frame 191   |  Lost tracks: 4   |  Tracked: 5
+  Lost ID 61
+
+Frame 191
+Lost ID 61
+   Detection0:IOU = 0.081
+   Detection1:IOU = 0.059
+   Detection2:IOU = 0.005
+   Detection3:IOU = 0.057
+   Detection4:IOU = 0.041
+  Lost ID 72
+
+Frame 191
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 77
+
+Frame 191
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.093
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.325
+  Lost ID 74
+
+Frame 191
+Lost ID 74
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.186
+   Detection4:IOU = 0.000
+Active IDs:   45   75   51   79   84  
+______________________________________
+Frame 192   |  Lost tracks: 5   |  Tracked: 4
+  Lost ID 61
+
+Frame 192
+Lost ID 61
+   Detection0:IOU = 0.076
+   Detection1:IOU = 0.066
+   Detection2:IOU = 0.017
+   Detection3:IOU = 0.045
+  Lost ID 72
+
+Frame 192
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 192
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.128
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 74
+
+Frame 192
+Lost ID 74
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.009
+   Detection3:IOU = 0.201
+  Lost ID 84
+
+Frame 192
+Lost ID 84
+   Detection0:IOU = 0.007
+   Detection1:IOU = 0.278
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+Active IDs:   45   75   51   79  
+______________________________________
+Frame 193   |  Lost tracks: 5   |  Tracked: 5
+  Lost ID 61
+
+Frame 193
+Lost ID 61
+   Detection0:IOU = 0.086
+   Detection1:IOU = 0.028
+   Detection2:IOU = 0.027
+   Detection3:IOU = 0.086
+  Lost ID 72
+
+Frame 193
+Lost ID 72
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 77
+
+Frame 193
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.184
+  Lost ID 74
+
+Frame 193
+Lost ID 74
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.016
+   Detection2:IOU = 0.213
+   Detection3:IOU = 0.000
+  Lost ID 75
+
+Frame 193
+Lost ID 75
+   Detection0:IOU = 0.190
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.502
+Active IDs:   45   51   79   87   84  
+______________________________________
+Frame 194   |  Lost tracks: 3   |  Tracked: 5
+  Lost ID 77
+
+Frame 194
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.154
+  Lost ID 74
+
+Frame 194
+Lost ID 74
+   Detection0:IOU = 0.002
+   Detection1:IOU = 0.013
+   Detection2:IOU = 0.287
+   Detection3:IOU = 0.000
+  Lost ID 75
+
+Frame 194
+Lost ID 75
+   Detection0:IOU = 0.287
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.401
+Active IDs:   45   51   79   84   88  
+______________________________________
+Frame 195   |  Lost tracks: 3   |  Tracked: 4
+  Lost ID 77
+
+Frame 195
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.159
+   Detection3:IOU = 0.090
+  Lost ID 74
+
+Frame 195
+Lost ID 74
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 79
+
+Frame 195
+Lost ID 79
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.067
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+Active IDs:   45   51   84   75  
+______________________________________
+Frame 196   |  Lost tracks: 3   |  Tracked: 6
+  Lost ID 77
+
+Frame 196
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.137
+   Detection3:IOU = 0.000
+  Lost ID 74
+
+Frame 196
+Lost ID 74
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.014
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+  Lost ID 79
+
+Frame 196
+Lost ID 79
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.085
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.000
+Active IDs:   45   51   84   75   89   90  
+______________________________________
+Frame 197   |  Lost tracks: 3   |  Tracked: 4
+  Lost ID 77
+
+Frame 197
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.098
+   Detection3:IOU = 0.000
+  Lost ID 74
+
+Frame 197
+Lost ID 74
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.012
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.161
+  Lost ID 79
+
+Frame 197
+Lost ID 79
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.070
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.001
+Active IDs:   45   51   84   75  
+______________________________________
+Frame 198   |  Lost tracks: 3   |  Tracked: 5
+  Lost ID 77
+
+Frame 198
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.095
+   Detection3:IOU = 0.000
+  Lost ID 74
+
+Frame 198
+Lost ID 74
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.525
+  Lost ID 79
+
+Frame 198
+Lost ID 79
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.042
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.189
+Active IDs:   45   51   84   75   91  
+______________________________________
+Frame 199   |  Lost tracks: 3   |  Tracked: 6
+  Lost ID 77
+
+Frame 199
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.116
+   Detection3:IOU = 0.000
+  Lost ID 74
+
+Frame 199
+Lost ID 74
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.466
+  Lost ID 79
+
+Frame 199
+Lost ID 79
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.048
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.321
+Active IDs:   45   51   84   75   92   93  
+______________________________________
+Frame 200   |  Lost tracks: 3   |  Tracked: 5
+  Lost ID 77
+
+Frame 200
+Lost ID 77
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.112
+   Detection3:IOU = 0.000
+   Detection4:IOU = 0.000
+  Lost ID 74
+
+Frame 200
+Lost ID 74
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.000
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.314
+   Detection4:IOU = 0.000
+  Lost ID 79
+
+Frame 200
+Lost ID 79
+   Detection0:IOU = 0.000
+   Detection1:IOU = 0.043
+   Detection2:IOU = 0.000
+   Detection3:IOU = 0.254
+   Detection4:IOU = 0.000
+Active IDs:   45   51   84   75   92  
+______________________________________
