@@ -1,18 +1,51 @@
-venv/
-.venv/
-pycache/
+# Python
+__pycache__/
 *.pyc
+*.pyo
 
-runs/
+# Virtual environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Datasets and annotations
 dataset/
-*.zip
-
 annotations/
 annotations_backup/
 
+# Generated outputs
+runs/
+frames/
+OUTPUT_UPDATED/
+
+# Generated debug files & logs
+debug_*.jpg
+crop_*.jpg
+sam_player*.jpg
+raw_frame_debug.jpg
+depth*.png
+*log*.txt
+track_records.json
+
+# Videos
 *.mp4
 *.avi
 *.mov
 
+# Model weights
 *.pt
 *.pth
+
+# Temporary and shortcut files
+*.lnk
+*.zip
+.DS_Store
+# All images
+*.jpg
+*.png
+*.jpeg
+
+# Wheels
+*.whl
